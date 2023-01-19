@@ -18,7 +18,7 @@ function App() {
       <nav className='p-5 bg-white shadow h-16 
 '>
         <div className=''>
-          <img src="1.png" alt="" className='md:mt-[-15px] lg:inline cursor-pointer mt-[-15px] ' />
+          <img src="1.png" alt="" className='md:mt-[-15px] lg:inline cursor-pointer mt-[-0.8rem] ml-[-0.3rem]' />
           <span className='font-bold text-2xl md:ml-[3rem] absolute top-5  ml-[3rem]
           lg:ml-[0.3rem]
           '>
