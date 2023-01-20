@@ -30,11 +30,11 @@ function App() {
             {isClicked.menu ? <GiHamburgerMenu className='lg:hidden' /> : <MdOutlineClose className='lg:hidden' />}
           </button>
         </div>
-        {isClicked.menu ? " " : <div className='flex flex-col mt-[2rem] h-[12rem] 
-       md:bg-white md:h-[16rem] md:w-[100%] md:absolute md:left-0 md:top-[39px] 
+        {isClicked.menu ? " " : <div className='flex flex-col mt-[5rem] h-[12rem] 
+       md:bg-white md:h-[16rem] md:w-[100%] md:absolute md:left-0 md:top-[-21px] 
        lg:hidden
         '>
-          <ul className=' flex flex-col  gap-4 font-medium ml-[2rem] duration-500
+          <ul className=' flex flex-col  gap-4 font-medium ml-[3rem] duration-500
           md:ml-[3rem] md:mt-[1rem] md:duration-500 
 
         '>
